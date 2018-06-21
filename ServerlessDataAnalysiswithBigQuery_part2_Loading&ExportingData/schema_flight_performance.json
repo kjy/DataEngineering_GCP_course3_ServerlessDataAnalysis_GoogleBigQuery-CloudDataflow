@@ -1,0 +1,125 @@
+[
+    {
+        "name": "YEAR",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "QUARTER",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "MONTH",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "DAY_OF_MONTH",
+        "type": "INTEGER"
+    },
+    {
+        "name": "DAY_OF_WEEK",
+        "type": "INTEGER"
+    },
+    {
+        "name": "FULL_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CARRIER",
+        "type": "STRING"
+    },
+    {
+        "name": "TAIL_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "FLIGHT_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "ORIGIN",
+        "type": "STRING"
+    },
+    {
+        "name": "DESTINATION",
+        "type": "STRING"
+    },
+    {
+        "name": "SCHEDULED_DEPART_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "ACTUAL_DEPART_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "DEPARTURE_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "TAKE_OFF_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "LANDING_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "SCHEDULED_ARRIVAL_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "ACTUAL_ARRIVAL_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "ARRIVAL_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "FLIGHT_CANCELLED",
+        "type": "INTEGER"
+    },
+    {
+        "name": "CANCELLATION_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "SCHEDULED_ELAPSED_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "ACTUAL_ELAPSED_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "AIR_TIME",
+        "type": "INTEGER"
+    },
+    {
+        "name": "DISTANCE",
+        "type": "INTEGER"
+    },
+    {
+        "name": "CARRIER_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "WEATHER_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "NAS_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "SECURITY_DELAY",
+        "type": "INTEGER"
+    },
+    {
+        "name": "LATE_AIRCRAFT_DELAY",
+        "type": "INTEGER"
+    }
+]
